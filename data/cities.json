@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "f181",
+      "cityName": "Celorico da Beira",
+      "country": "Portugal",
+      "date": "2024-02-16T07:14:45.358Z",
+      "emoji": "🇵🇹",
+      "notes": "",
+      "position": {
+        "lat": "40.6306300839918",
+        "lng": "-7.426757812500001"
+      }
+    },
+    {
+      "id": "42b5",
+      "cityName": "Celorico da Beiraewe",
+      "country": "Portugal",
+      "date": "2024-02-16T07:14:45.358Z",
+      "emoji": "🇵🇹",
+      "notes": "",
+      "position": {
+        "lat": "40.6306300839918",
+        "lng": "-7.426757812500001"
+      }
+    },
+    {
+      "id": "da48",
+      "cityName": "Baku",
+      "country": "Azerbaijan",
+      "date": "2024-02-16T07:22:22.746Z",
+      "emoji": "🇦🇿",
+      "notes": "salamlar",
+      "position": {
+        "lat": "40.371658891506094",
+        "lng": "49.888916015625"
+      }
+    },
+    {
+      "id": "9d6a",
+      "cityName": "Quintana y Congosto",
+      "country": "Spain",
+      "date": "2024-02-19T05:09:22.403Z",
+      "emoji": "🇪🇸",
+      "notes": "salam",
+      "position": {
+        "lat": "42.27730877423709",
+        "lng": "-6.020507812500001"
+      }
+    }
+  ]
+}
